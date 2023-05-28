@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Quicksand:wght@500&family=Space+Grotesk:wght@300&display=swap');
+
+
+body{
+  font-family: "PT Sans";
+  background-color: lavender;
+}
+
+h1, h2, h3, h4{
+  font-family: "Space Grotesk";  
+
+}
